@@ -6,7 +6,7 @@ In one way or another - data ran my life so I decided to jump head first into th
 
 Check out the projects pinned to my page 😄
 
-📫 Reach out anytime:
+📫 - Reach out anytime:
 
 Email: santan2.miguel@gmail.com
 
@@ -15,13 +15,13 @@ Email: santan2.miguel@gmail.com
 
 Check out my blog posts on [Medium](https://miguelangelsantana.medium.com/) and Project Visualizations on [Tableau Public.](https://public.tableau.com/profile/miguelangelsantana)
 
-🔭 I’m currently working on:
+🔭 - I’m currently working on:
 
 * Web Development with Javascript, jQuery, Node.js and React.
 	* Check out my personal [website](https://miguelangelsantana.github.io/mas/) (Its a work in progress 😄)
 * Building a team to provide quick and free analysis to struggling small businesses.
 
-💬 Ask me about:
+💬 - Ask me about:
 
 * Work
 * Leadership
@@ -29,7 +29,7 @@ Check out my blog posts on [Medium](https://miguelangelsantana.medium.com/) and 
 * Food
 * ... anything really 😄, lets taco bout it.
 
-💡Fun facts:
+💡- Fun facts:
 
 * I love the outdoors.
 * The meme to picture ratio on my phone is embarrassing.
