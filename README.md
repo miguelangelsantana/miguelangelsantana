@@ -1,33 +1,24 @@
 ### Hi there, I'm Miguel 👋
 
-I'm a Data Scientist with a background in sales, marketing and insurance. Arizona born and raised. Don't love the 999-degree temperatures but do love the culture, people and great food. I've worked with insurance products in all 50 states and have met a ton of amazing people along the way. 
+Arizona born and raised. Don't love the 999-degree temperatures but do love the culture, people and great food. I'm interested in all things machine learning, web development, app development and ultimately leveraging technology to make the world a better place. 
 
-In one way or another - data ran my life so I decided to jump head first into the tech industry. I'm interested in all things machine learning, web development, app development and ultimately leveraging technology to make the world a better place. 
-
-Check out the projects pinned to my page 😄
+Check out my featured projects 😄
 
 📫 - **Reach out anytime:**
 
 Email: santan2.miguel@gmail.com
 
+Check out my [Personal Website](https://www.miguelasantana.com) to learn more about me and to get in touch.
 
-[LinkedIn](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/) and [Twitter](https://twitter.com/msantana_ds)
-
-Check out my blog posts on [Medium](https://miguelangelsantana.medium.com/) and Project Visualizations on [Tableau Public.](https://public.tableau.com/profile/miguelangelsantana)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/), [Twitter](https://twitter.com/msantana_ds) and [Medium.](https://miguelangelsantana.medium.com/)
 
 🔭 - **I’m currently working on:**
 
-* Web Development with Javascript, jQuery, Node.js and React.
-	* Check out my personal [website](https://miguelangelsantana.github.io/mas/) (Its a work in progress 😄)
-* Building a team to provide quick and free analysis to struggling small businesses.
+**The Humble Growth Project!**
 
-💬 - **Ask me about:**
+* Humble UpGrowth is a collection of free and useful personal resources listed for everyday use. The philosophy is simple: Spread some love. Make the world a better place, one person at a time. Check out the site [here.](https://www.humbleupgrowth.com)
 
-* Work
-* Leadership
-* Life
-* Food
-* ... anything really 😄, lets taco bout it.
+* Humble Growth Partners is a collection of free and useful professional resources listed for everyday use. Resources include "no code" web development, resume building and project management templates for personal and business use. Check out the site [here.](https://www.humblegrowthpartners.com) 
 
 💡- **Fun facts:**
 
